@@ -1,0 +1,2 @@
+Текст: text.html
+Ключ: key.html
