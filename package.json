@@ -1,0 +1,27 @@
+{
+  "name": "testdisbot",
+  "version": "1.0.0",
+  "description": "gg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cergey2202/ds.git"
+  },
+  "keywords": [
+    "ds",
+    "bot",
+    "me"
+  ],
+  "author": "cergey2202",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cergey2202/ds/issues"
+  },
+  "homepage": "https://github.com/Cergey2202/ds#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
